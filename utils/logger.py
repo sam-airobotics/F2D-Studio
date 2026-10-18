@@ -1,7 +1,7 @@
 """
 logger.py
 
-Central logging utility for the FusionToDescription exporter.
+Central logging utility for F2D Studio.
 """
 
 import datetime
