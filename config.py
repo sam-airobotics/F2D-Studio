@@ -1,4 +1,4 @@
-APP_NAME = "FusionToDescription"
+APP_NAME = "F2D Studio"
 
 COMMAND_ID = "fusion_to_description_export"
 COMMAND_NAME = "Export Description Package"
