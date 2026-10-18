@@ -1,7 +1,7 @@
 {
   "autodeskProduct": "Fusion",
   "type": "addin",
-  "id": "fusiontodescription",
+  "id": "f2dstudio",
   "author": "Sameer Patwardhan",
   "description": {
     "": "F2D Studio — Fusion 360 to ROS 2 Description Package Exporter"
