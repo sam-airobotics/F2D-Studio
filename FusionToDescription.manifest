@@ -4,7 +4,7 @@
   "id": "fusiontodescription",
   "author": "Sameer Patwardhan",
   "description": {
-    "": "Fusion 360 to ROS2 Description Package Exporter"
+    "": "F2D Studio — Fusion 360 to ROS 2 Description Package Exporter"
   },
   "version": "0.1.3",
   "runOnStartup": false,
