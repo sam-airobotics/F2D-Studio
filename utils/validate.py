@@ -1,4 +1,4 @@
-"""Validation utilities for the FusionToDescription export pipeline."""
+"""Validation utilities for the F2D Studio export pipeline."""
 
 import math
 import os
