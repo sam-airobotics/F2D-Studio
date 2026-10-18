@@ -1,7 +1,7 @@
 # 📐 F2D Studio
 
 <p align="center">
-  <img src="resources/svg/F2D Studio SVG.svg" width="100%" alt="F2D Studio workflow">
+  <img src="resources/svg/F2D-Studio.svg" width="100%" alt="F2D Studio workflow">
 </p>
 
 **F2D Studio** is a Fusion 360 add-in that converts Autodesk Fusion 360 robot assemblies into ROS 2 description packages.
