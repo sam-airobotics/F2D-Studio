@@ -63,7 +63,7 @@ def start():
         cmd_def = ui.commandDefinitions.addButtonDefinition(
             config.COMMAND_ID,
             config.COMMAND_NAME,
-            "Fusion 360 to ROS2 Description Package Exporter",
+            "F2D Studio — Fusion 360 to ROS 2 Description Package Exporter",
             icon_folder
         )
 
