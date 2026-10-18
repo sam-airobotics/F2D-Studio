@@ -15,7 +15,7 @@ class PackageXMLGenerator:
 
     def _build_xml(self):
         config = self.package.config
-        maintainer_name = config.maintainer_name.strip() or "FusionToDescription"
+        maintainer_name = config.maintainer_name.strip() or "F2D Studio"
         maintainer_email = config.maintainer_email.strip() or "noreply@example.com"
         deps = {
             "robot_state_publisher", "joint_state_publisher", "rviz2", "xacro", "urdf"
