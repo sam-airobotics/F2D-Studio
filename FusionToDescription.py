@@ -1,4 +1,4 @@
-"""FusionToDescription Autodesk Fusion 360 add-in entry point.
+"""F2D Studio Autodesk Fusion 360 add-in entry point.
 
 Version: 0.1.3
 """
