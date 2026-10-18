@@ -1,14 +1,14 @@
-# 📐 FusionToDescription
+# 📐 F2D Studio
 
 <p align="center">
-  <img src="resources/svg/FusionToDescription SVG.svg" width="100%" alt="FusionToDescription workflow">
+  <img src="resources/svg/F2D Studio SVG.svg" width="100%" alt="F2D Studio workflow">
 </p>
 
-**FusionToDescription** is a Fusion 360 add-in that converts Autodesk Fusion 360 robot assemblies into ROS 2 description packages.
+**F2D Studio** is a Fusion 360 add-in that converts Autodesk Fusion 360 robot assemblies into ROS 2 description packages.
 
 ### 🔗 Workflow
 
-**Fusion 360 → FusionToDescription → ROS 2 Description Package**
+**Fusion 360 → F2D Studio → ROS 2 Description Package**
 
 ### ✨ Project Information
 
@@ -31,11 +31,11 @@
 
 ---
 
-# 🚀 FusionToDescription v0.1.3
+# 🚀 F2D Studio v0.1.3
 
 ## Export Path & Browse Feature
 
-Version **0.1.3** introduces an improved **Export Path workflow** with an integrated **Browse** option in the FusionToDescription export dialog.
+Version **0.1.3** introduces an improved **Export Path workflow** with an integrated **Browse** option in the F2D Studio export dialog.
 
 Users can now select the destination folder through the Fusion 360 folder picker instead of entering the complete export path manually.
 
@@ -61,7 +61,7 @@ The Browse control is integrated into the same row as the Export Path field, kee
 
 ### Browse Workflow
 
-1. Open **FusionToDescription**.
+1. Open **F2D Studio**.
 2. Go to the **General** tab.
 3. Locate **Export Path**.
 4. Click **Browse**.
@@ -109,7 +109,7 @@ This keeps the Browse functionality compatible with the compact single-row layou
 
 # 🔗 Joint Pipeline
 
-FusionToDescription continues to include the redesigned **joint and kinematic frame pipeline** introduced in **v0.1.2**.
+F2D Studio continues to include the redesigned **joint and kinematic frame pipeline** introduced in **v0.1.2**.
 
 The pipeline converts Fusion 360 assembly joints into ROS 2 / URDF joints while preserving the intended assembly structure.
 
@@ -284,7 +284,7 @@ Unbounded revolute joints are also reported as warnings where applicable.
 
 # 🎨 Material Pipeline
 
-FusionToDescription continues to preserve the material-pipeline improvements introduced in **v0.1.1**.
+F2D Studio continues to preserve the material-pipeline improvements introduced in **v0.1.1**.
 
 ### Fusion Material Preservation
 
@@ -306,7 +306,7 @@ This enables:
 
 # 📦 Export Result
 
-FusionToDescription generates a ROS 2 description package containing:
+F2D Studio generates a ROS 2 description package containing:
 
 - URDF / Xacro
 - Meshes
@@ -332,7 +332,7 @@ Generated packages should still be tested in the target ROS 2 / Gazebo environme
 
 # 📁 Export Location
 
-The export destination can now be selected directly from the FusionToDescription interface.
+The export destination can now be selected directly from the F2D Studio interface.
 
 Use:
 
