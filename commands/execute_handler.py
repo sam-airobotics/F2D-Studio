@@ -1,4 +1,4 @@
-"""Execute handler for the FusionToDescription export command."""
+"""Execute handler for the F2D Studio export command."""
 
 import traceback
 
